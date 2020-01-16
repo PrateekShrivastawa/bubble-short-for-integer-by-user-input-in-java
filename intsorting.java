@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class intsorting {
+public class bubblesortingint {
     public static void main(String[] args) {
         int temp;
         Scanner sc = new Scanner(System.in);
