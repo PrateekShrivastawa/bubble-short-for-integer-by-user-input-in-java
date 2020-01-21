@@ -1,3 +1,9 @@
+/* This program will take the input name,rollno,cpi 
+if the cpi of any two students are same then it will sort on the basics of name 
+but if the name of two students are same then it will be sort on the basics of rollno
+otherwise it will sort on the basics of cpi.
+*/
+
 import java.util.*;
 public class collegeprogram {
     public static void main(String[] args) throws Exception {
